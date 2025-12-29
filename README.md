@@ -15,7 +15,7 @@ Simple architecture for computing XOR operation
 Dynamically shows data flow through processing nodes and weights
 
 ## Dependencies
-- SDL2 library
+- SDL library
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
