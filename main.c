@@ -24,7 +24,7 @@ void SDL_RenderFillCircle(SDL_Renderer* renderer, float x, float y, float r) {
 
 // Architecture initialization
 #define ARRAY_LEN(x) (sizeof(x) / sizeof(x[0]))
-int arch[] = {2,4,4,1}; // is this the model architecture??
+int arch[] = {2,4,12,1};
 
 #define NUM_INPUTS 2
 #define NUM_OUTPUTS 1
