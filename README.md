@@ -19,8 +19,3 @@ Dynamically shows data flow through processing nodes and weights
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-Thank you for checking out the Neural Network From Scratch With C project! We hope you find it informative and valuable. If you have any questions or suggestions, please feel free to reach out.
